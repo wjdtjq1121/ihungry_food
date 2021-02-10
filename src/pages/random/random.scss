@@ -1,0 +1,58 @@
+page-random {
+    ion-title {
+        background-color: #e25159;
+    }
+  .content {
+      background-color: #fafaf5;
+  }
+    #rullete_letter {
+        span{
+            text-align: center;
+            align-items: center;
+            justify-content: space-between;
+            color: rgb(255,255,255);
+            font-size: 130%;
+            font-weight : bold;
+        }
+    }
+  }
+
+    .vertical-container_tap {
+        display: -webkit-flex;
+        display:         flex;
+        -webkit-align-items: center;
+                align-items: center;
+        -webkit-justify-content: center;
+                justify-content: center;
+      }
+
+
+    .vertical-container {
+        display: -webkit-flex;
+        display:         flex;
+        -webkit-align-items: center;
+                align-items: center;
+        -webkit-justify-content: center;
+                justify-content: center;
+
+        transition : transform 2s;
+
+      }
+    .spin {
+       position : relative;
+       display: inline-block;
+       transition : transform 2s;
+    }
+
+  .toolbar-background-md {
+    background-color: #e25159;
+  }
+  .toolbar-title-ios {
+
+      text-align: center;
+      color: #ffffff;
+  }
+  .toolbar-title-md{
+      text-align: center;
+      color: #ffffff;
+  }

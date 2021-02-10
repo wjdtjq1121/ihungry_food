@@ -1,0 +1,90 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>i-Hungry reboot</ion-title>
+
+    <ion-buttons end>
+      <button ion-button icon-only (click)="showAlert()">
+        <!-- showalert function -> information 메일 정보 담아놨음. ts파일 -->
+        <ion-icon name="information-circle"></ion-icon>
+      </button>
+    </ion-buttons>
+
+
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+
+  <!-- <ion-list>
+
+    <ion-item *ngFor = "let store of foods"
+    (click) = "goFoodDetails(store)" detail-push>
+    <ion-thumbnail item-left>
+      <img src = "assets/img/thumbs/{{store.image}}">     
+    </ion-thumbnail>
+    <h2>{{store.name}}</h2>
+    <p>{{store.time}}</p>
+
+  </ion-item>
+
+  </ion-list>
+
+ -->
+
+ <div class="div">
+  <ion-segment [(ngModel)]="stores" color = "ihungrylight">
+    <!-- stores 라는 segment 안에 all, cickens, others 라는 세 가지 다른 value 있음 -->
+    <ion-segment-button value="All">All</ion-segment-button>
+    <ion-segment-button value="Chickens">Chickens</ion-segment-button>
+    <ion-segment-button value="Others">Others</ion-segment-button>
+  </ion-segment>
+</div>
+
+<ion-searchbar (ionInput) = "getItems($event)"></ion-searchbar>
+
+
+<!-- store model 중에서 -->
+<div [ngSwitch]="stores">
+  <!-- all 이라는 segment display -->
+  <ion-list *ngSwitchCase="'All'" (swipeleft)="alltochicken()"> <!--swipeleft는 오른쪽에서 왼쪽으로 밀 때, all - chicken 으로-->
+    <!-- item은 ts파일에서 af.list('/store/') 까지만 접근한 노드. 즉 업체 하나하나가 item of items가 됨.
+    detail push 하면 key 값전달
+    segment list색깔을 background색으로 설정 해놓지 않으면 하얀색으로 나옴. -->
+    <ion-item *ngFor="let store of foods" (click)="goFoodDetails(store)" detail-push color="ihungrybackground">
+      <ion-thumbnail item-start class="thumb">
+        <img src = "assets/img/thumbs/{{store.image}}">
+      </ion-thumbnail>
+      <h2>{{store.name}}</h2>
+      <p>{{store.time}}</p>
+    </ion-item>
+  </ion-list>
+  
+  <!-- 위와 같은 로직! -->
+  <ion-list *ngSwitchCase="'Chickens'" (swiperight)="chickentoall()" (swipeleft)="chickentoothers()">
+    <div *ngFor="let chicken of foods" (click)="goFoodDetails(chicken)" detail-push>
+      <ion-item *ngIf="chicken.category == 'chicken'" color="ihungrybackground">
+        <ion-thumbnail item-start>
+          <img src = "assets/img/thumbs/{{chicken.image}}">
+        </ion-thumbnail>
+        <h2>{{chicken.name}}</h2>
+        <p>{{chicken.time}}</p>
+      </ion-item>
+    </div>
+  </ion-list>
+
+  <ion-list *ngSwitchCase="'Others'" (swiperight)="otherstochicken()">
+    <div *ngFor="let other of foods" (click)="goFoodDetails(other)" detail-push>
+      <ion-item *ngIf="other.category == 'others'" color="ihungrybackground">
+        <ion-thumbnail item-start>
+          <img src = "assets/img/thumbs/{{other.image}}">
+        </ion-thumbnail>
+        <h2>{{other.name}}</h2>
+        <p>{{other.time}}</p>
+      </ion-item>
+    </div>
+  </ion-list>
+</div>
+
+
+
+</ion-content>

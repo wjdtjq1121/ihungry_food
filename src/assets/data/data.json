@@ -1,0 +1,523 @@
+[
+    {
+        "id": 0,
+        "category" : "others",
+        "name": "59쌀피자",       
+        "image": "59쌀피자양덕점.jpg",
+        "time": "open: 11:00 ~ close 23:00",
+        "number": "Tel: 054-249-0059"
+ 
+    },
+    {
+        "id": 1,
+        "category" : "chicken",
+        "name": "BBQ 장량점",
+        "image": "bbq장량점.jpg",
+        "time": "open 12:00 ~ close 23:59 ",
+        "number" : "Tel: 054-252-9283"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "Dessert39 양덕점",
+        "image": "dessert39양덕점.jpg",
+        "time": "open 10:00 ~ close 22:00  ",
+        "number" : "Tel: 054-243-7294"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "강호동치킨",
+        "image": "강호동치킨.jpg",
+        "time": "open 13:00 ~ close 01:00  ",
+        "number" : "Tel: 054-256-0678"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "굽네치킨",
+        "image": "굽네치킨.jpg",
+        "time": "open 12:00 ~ close 23:59 연중무휴",
+        "number" : "Tel: 054-252-9595"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "그 시절 옛날 통닭",
+        "image": "그시절옛날통닭.jpg",
+        "time": "open 15:00 ~ close 23:59 연중무휴",
+        "number" : "Tel: 054-255-2534"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "김스타치킨",
+        "image": "김스타치킨.jpg",
+        "time": "open 16:00 ~ close 02:00 연중무휴",
+        "number" : "Tel: 054-255-5666"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "꼬꼬바베큐",
+        "image": "꼬꼬바베큐.jpg",
+        "time": "open 15:00 ~ close 01:00",
+        "number" : "Tel: 054-262-9220"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "꼬꼬집합소 포항본점",
+        "image": "꼬꼬집합소 포항본점.jpg",
+        "time": "open 11:00 ~ close 01:30",
+        "number" : "Tel: 054-253-3026"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "나는 심마니다",
+        "image": "나는 심마니다.jpg",
+        "time": "open 10:00 ~ close 23:59",
+        "number" : "Tel: 054-231-9595"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "네네치킨 흥해점",
+        "image": "네네치킨흥해점.jpg",
+        "time": "open 11:00 ~ close 23:59 연중무휴 ",
+        "number" : "Tel: 054-261-9979"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "노가닭",
+        "image": "노가닭.jpg",
+        "time": "open 14:00 ~ close 01:00",
+        "number" : "Tel: 054-232-8787"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "노랑통닭포항1호점",
+        "image": "노랑통닭포항1호점.jpg",
+        "time": " ",
+        "number" : "Tel: 054-251-0797"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "놀부보쌈&부대찌게 양덕점",
+        "image": "놀부보쌈부대찌게양덕점.jpg",
+        "time": "open 11:00 ~ close 23:00 연중무휴 ",
+        "number" : "Tel: 054-244-5382"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "달인어시장",
+        "image": "달인어시장.jpg",
+        "time": " ",
+        "number" : "Tel: 054-252-9224"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "달인의 찜닭",
+        "image": "달인의찜닭.jpg",
+        "time": "open 10:00 ~ close 22:30 연중무휴 ",
+        "number" : "Tel: 054-252-0116"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "대박치킨",
+        "image": "대박치킨.jpg",
+        "time": " ",
+        "number" : "Tel: 054-232-6336"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "땅땅치킨 양덕1점",
+        "image": "땅땅치킨양덕1점.jpg",
+        "time": "open 15:00 ~ close 01:30",
+        "number" : "Tel: 054-255-9599"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "땅땅치킨흥해점",
+        "image": "땅땅치킨흥해점.jpg",
+        "time": "open 15:00 ~ close 02:00 ",
+        "number" : "Tel: 054-262-9288"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "또박이식당",
+        "image": "또박이식당.jpg",
+        "time": "open 11:30 ~ close 20:00",
+        "number" : "Tel: 054-262-6888"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "또박이찜닭",
+        "image": "또박이찜닭.jpg",
+        "time": "open 11:30 ~ close 20:00",
+        "number" : "Tel: 054-262-6888"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "또박이치킨",
+        "image": "또박이치킨.jpg",
+        "time": "open 11:30 ~ close 25:30",
+        "number" : "Tel: 054-262-6888"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "롯데리아 흥해점",
+        "image": "롯데리아 흥해점.jpg",
+        "time": "open 11:00 ~ close 21:00",
+        "number" : "Tel: 054-262-6727"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "루이봉 찜닭",
+        "image": "루이봉찜닭.jpg",
+        "time": "open 11:00 ~ close 22:00 ",
+        "number" : "Tel: 054-251-1310"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "맘스터치 흥해",
+        "image": "맘스터치 흥해.jpg",
+        "time": "open 10:00 ~ close 22:00 연중무휴 ",
+        "number" : "Tel: 054-614-5882"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "맛나한식",
+        "image": "맛나한식.jpg",
+        "time": " ",
+        "number" : "Tel:010-6277-9421"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "모범떡볶이 1976 양덕점",
+        "image": "모범떡볶이.jpg",
+        "time": "open 11:00 ~ close 23:00 (일요일 11:00 ~ 22:30) ",
+        "number" : "Tel: 054-252-1976"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "미쳐버린파닭",
+        "image": "미쳐버린파닭.jpg",
+        "time": "open 11:00 ~ close 02:00 ",
+        "number" : "Tel: 054-252-9294"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "반올림피자샵",
+        "image": "반올림피자샵.jpg",
+        "time": "open 12:00 ~ close 23:59 ",
+        "number" : "Tel: 054-253-7989"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "봉구스밥버거 장량점",
+        "image": "봉구스밥버거 장량점.jpg",
+        "time": " ",
+        "number" : "Tel: 054-256-5554"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "부어치킨",
+        "image": "부어치킨.jpg",
+        "time": "open 13:00 ~ close 23:59 연중무휴 ",
+        "number" : "Tel: 054-232-3339"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "뽀글뽀글 태산부대찌개",
+        "image": "뽀글뽀글 태산부대찌개.jpg",
+        "time": "open 11:00 ~ close 23:00 ",
+        "number" : "Tel: 054-247-0200"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "색다른닭 양덕점",
+        "image": "색다른닭 양덕점.jpg",
+        "time": "open 17:00 ~ close 01:00 ",
+        "number" : "Tel: 054-252-6292"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "슈 닭",
+        "image": "슈닭.jpg",
+        "time": "open 12:30 ~ close 00:30 ",
+        "number" : "Tel: 054-253-5585"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "시골태화강 식당",
+        "image": "시골태화강식당.jpg",
+        "time": " ",
+        "number" : "Tel: 054-253-8006"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "신 불닭발",
+        "image": "신 불닭발.jpg",
+        "time": " ",
+        "number" : "Tel: 054-261-2777"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "신불 떡볶이 장량점",
+        "image": "신불떡볶이 장량점.jpg",
+        "time": "open 11:00 ~ close 23:00 ",
+        "number" : "Tel: 054-256-3553"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "신세계 불닭 닭발",
+        "image": "신세계 불닭 닭발.jpg",
+        "time": "open 17:00 ~ close 02:00 ",
+        "number" : "Tel: 054-251-9907"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "신천할매 떡볶이 양덕점",
+        "image": "신천할매양덕점.jpg",
+        "time": "open 11:00 ~ close 23:00 ",
+        "number" : "Tel: 054-256-8777"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "신통치킨",
+        "image": "신통치킨.jpg",
+        "time": "open 14:00 ~ close 23:00 (일요일은 6시부터)",
+        "number" : "Tel: 054-253-9985"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "쌀통닭",
+        "image": "쌀통닭.jpg",
+        "time": "open 14:00 ~ close 02:00 연중무휴 ",
+        "number" : "Tel: 054-252-5235"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "아로하치킨피자",
+        "image": "아로하치킨피자.jpg",
+        "time": " ",
+        "number" : "Tel: 054-252-8292"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "아침에 시락국 (버거힐스)",
+        "image": "아침에시락국(버거힐스).jpg",
+        "time": "open 07:30 ~ close 19:30 /토요일 15시 /일요일 휴무 ",
+        "number" : "Tel: 054-254-9109"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "오거리 한양족발 (양덕점)",
+        "image": "오거리 한양족발.jpg",
+        "time": "24시간 연중무휴",
+        "number" : "Tel: 054-254-0303"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "오꾸닭 (흥해점)",
+        "image": "오꾸닭 흥해점.jpg",
+        "time": "open 15:00 ~ close 02:00 ",
+        "number" : "Tel: 054-262-5992"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "오늘또닭 (흥해점)",
+        "image": "오늘또닭 흥해점.jpg",
+        "time": "open 15:00 ~ close 23:59 ",
+        "number" : "Tel: 054-262-9993"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "웰빙 묵은지 찜닭",
+        "image": "웰빙 묵은지 찜닭.jpg",
+        "time": " ",
+        "number" : "Tel: 054-261-2777"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "임진각 흥해본점",
+        "image": "임진각 흥해본점.jpg",
+        "time": "open 17:00 ~ close 23:59 ",
+        "number" : "Tel: 054-262-0013"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "자연임실치즈피자",
+        "image": "자연임실치즈피자.jpg",
+        "time": "open 11:00 ~ close 23:00 ",
+        "number" : "Tel: 054-252-0069"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "자이언트 두마리 통닭",
+        "image": "자이언트통닭.jpg",
+        "time": "open 11:00 ~ close 23:59 ",
+        "number" : "Tel: 054-246-0012"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "장강",
+        "image": "장강.jpg",
+        "time": " ",
+        "number" : "Tel: 054-262-1110"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "장충웰빙족발",
+        "image": "장충웰빙족발.jpg",
+        "time": "open 17:00 ~ close 02:00 (주말공휴일 16:00 ~ 02:00)",
+        "number" : "Tel: 054-232-2300"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "쥰스피자",
+        "image": "쥰스피자.jpg",
+        "time": " ",
+        "number" : "Tel: 054-262-3530"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "지붕위에파닭",
+        "image": "지붕위에파닭.jpg",
+        "time": " ",
+        "number" : "Tel: 054-262-3390"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "지정환 피자",
+        "image": "지정환피자.jpg",
+        "time": "open 11:00 ~ close 23:59",
+        "number" : "Tel: 054-253-2244"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "짱큰 대구대가리",
+        "image": "짱큰 대구대가리.jpg",
+        "time": "open 17:00 ~ close 01:00 ",
+        "number" : "Tel: 054-246-4571"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "쭌이네 곱창철판 볶음",
+        "image": "쭌이네 곱창철판 볶음.jpg",
+        "time": "open 17:00 ~ close 02:00/매월 홀수 일요일 휴무",
+        "number" : "Tel: 054-256-5633"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "치코파닭",
+        "image": "치코파닭.jpg",
+        "time": "open 13:00 ~ close 01:00",
+        "number" : "Tel: 054-241-9922"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "돈도니",
+        "image": "돈도니.jpg",
+        "time": "open 11:00 ~ close 23:00",
+        "number" : "Tel: 054-262-9968"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "티바두마리",
+        "image": "티바두마리.jpg",
+        "time": "",
+        "number" : "Tel: 054-261-7887"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "두놈도시락",
+        "image": "두놈도시락.jpg",
+        "time": "open 11:00 ~ close 25:00",
+        "number" : "Tel: 054-253-8281"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "백년족발",
+        "image": "백년족발.jpg",
+        "time": "open 11:00 ~ close 25:00",
+        "number" : "Tel: 054-255-3336"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "삼촌네",
+        "image": "삼촌네.jpg",
+        "time": "open 10:00 ~ ",
+        "number" : "Tel: 054-232-0305"
+    },
+    {
+        "id": 2,
+        "category" : "others",
+        "name" : "육가네",
+        "image": "육가네.jpg",
+        "time": "open 10:00 ~ close 20:30",
+        "number" : "Tel: 054-255-5060"
+    },
+    {
+        "id": 2,
+        "category" : "chicken",
+        "name" : "자담치킨",
+        "image": "자담치킨.jpg",
+        "time": "open 16:00 ~ close 25:00",
+        "number" : "Tel: 054-253-5559"
+    }
+]

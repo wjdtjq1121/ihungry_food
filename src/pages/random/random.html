@@ -1,0 +1,14 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>오늘 뭐먹지?</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding class="content">
+    <div class ="vertical-container_tap">
+      <img src="assets/img/roulette_pin.png">
+    </div>
+    <div class="vertical-container" [ngClass]="{'spinningfunc': vertical-container, 'nspinningfunc': !vertical-container}" (click) = "spinning()">
+      <img src="assets/img/roulettebig.png">
+    </div>
+  </ion-content>

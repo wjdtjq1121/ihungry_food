@@ -1,0 +1,35 @@
+page-food-details {
+
+        ion-title {
+            background-color: #e25159;
+        }
+        ion-footer {
+            font-weight: bold;
+        }
+        .card-background-page {
+            background-color: #fafaf5;
+        }
+        .bar-button {
+            color: #ffffff;
+        }
+        .toolbar-background-md {
+        //안드로이드는 ion-title{} 태그에서 배경색 설정하는게 적용이 잘 안되어서 따로 디테일하게 만짐.
+            background-color: #e25159;
+        }
+        .toolbar-title-ios {
+            text-align: center;
+            color: #ffffff;
+            font-weight: bold;
+        }
+        .toolbar-title-md{
+            color: #ffffff;
+            width: 270px;
+            margin: 0px;
+            padding-left: 0px;
+            //home.scss에서는 padding-left를 100으로 줬는데 여기서는 center가 또 된다...
+            text-align: center;
+            font-weight: bold;
+        }
+    
+    
+}

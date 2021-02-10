@@ -1,0 +1,24 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      {{foodInfo.name}}
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content class="card-background-page">
+  <div>
+    <!-- 메뉴판 하나만 크게 display -->
+    <img src="assets/img/headers/{{foodInfo.image}}">
+  </div>
+</ion-content>
+
+
+<ion-footer>
+  <!-- call 버튼 하단에 고정시킴 -->
+  <!-- 바로전화가는게 아니고 키패드로 이동. 현재 ios dev app test는 안됨. 패키지 해봐야 알 듯
+  *바로전화말고 이렇게 키패드 까지만 가는 걸로 놔두는 것도 좋은듯-->
+  <button ion-button full icon-only (click)="callIT(foodInfo.number)" color = "callbutton">
+    <ion-icon name="call"></ion-icon>{{foodInfo.number}}
+  </button>
+</ion-footer>
